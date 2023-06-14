@@ -1,0 +1,36 @@
+laravel artisan by ryan Naddy
+
+Laravel Blade Snippets by Winnie Lin
+
+Laravel Blade Spacer by Austen Cameron
+
+Laravel Extra Intellisense by amir
+
+Php Intelephense by Ben Mewburn
+
+Laravel goto view by codingyu
+
+laravel-goto-controller by stef-k or ctf()
+
+Laravel Snippets by Winnie Lin
+
+Laravel-goto-components by naoray
+
+PHP DocBlocker by Neil Brayfield
+
+PHPDoc Comment by Rex Shi
+
+PHP Namespace Resolver by Mehedi Hassan
+
+Beautify by HookyQR
+
+DotEnv by mikestead
+
+Paste JSON as Code by quicktype
+
+Tailwind CSS IntelliSense by Tailwind Labs
+
+VSCode Great Icons by Emmanuel Beziat
+
+Database Client by Weijan Chen
+SQLTools by matheus Teixeira
